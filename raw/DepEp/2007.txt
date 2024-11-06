@@ -1,0 +1,56 @@
+Department of Environmental Protection:
+Air Pollution Fees – Minor Sources 3,358 3,500 10,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Air Pollution Fees – Title V Operating Permits 13,151 13,100 13,100 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Air Pollution Fines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3,381 3,250 3,250
+Clean Water Enforcement Act 1,303 1,500 1,500 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Coastal Area Facility Review Act 2,413 2,525 3,330 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Endangered Species Tax Checkoff 216 200 200 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Environmental Infrastructure Financing Program Administrative Fee 5,000 5,000 5,000 . . . . . . . . . . . . . . .
+Excess Diversion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 190 261 261
+Freshwater Wetlands Fees 3,782 4,000 5,310 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Freshwater Wetlands Fines 407 300 100 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Hazardous Discharge Site Cleanup 6,118 ––– ––– . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Hazardous Waste Fees 2,616 2,990 4,260 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Hazardous Waste Fines 755 400 675 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Highlands Permitting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 296 396 396
+Hunters’ and Anglers’ Licenses 11,671 11,000 11,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Industrial Site Recovery Act 711 800 1,120 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Laboratory Certification Fees 814 780 780 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Laboratory Certification Fines 8 20 20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Lake Restoration Fund . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94 ––– –––
+Marina Rentals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1,053 885 885
+Marine Lands – Preparation and Filing Fees 2,160 120 140 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Medical Waste . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4,219 4,100 4,400
+Miscellaneous Revenue 12 ––– ––– . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+New Jersey Pollutant Discharge Elimination System/Stormwater Permits 19,887 15,600 16,700 . . . . . . . . . . . .
+New Jersey Spill Compensation Fund 6,441 ––– ––– . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Parks Management Fees and Permits 5,472 4,300 4,300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Parks Management Fines 141 160 165 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Pesticide Control Fees 4,230 4,200 4,200 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Pesticide Control Fines 49 120 50 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Radiation Protection Fees 4,199 3,740 5,439 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Radiation Protection Fines 93 88 88 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Radon Testers Certification 270 253 263 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Recycling Fund . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41 ––– –––
+Safe Drinking Water Fund 860 ––– ––– . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Shellfish and Marine Fisheries 8 7 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Solid Waste – Utility Regulation Assessments 4,108 3,100 3,100 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Solid Waste Fines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 564 900 700
+Solid Waste Management Fees 8,096 8,080 11,700 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Solid and Hazardous Waste Disclosure 237 ––– ––– . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Spring Meadow Golf Course 300 300 300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Stream Encroachment 2,722 2,860 3,710 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Toxic Catastrophe Prevention Fees 1,366 1,366 1,366 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Toxic Catastrophe Prevention Fines 29 44 44 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Treatment Works Approval 1,170 1,877 1,957 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Underground Storage Tanks Fees 1,155 1,000 1,400 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Water Allocation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1,687 2,050 2,050
+Water Supply Fund . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 322 ––– –––
+Water Supply Management Regulations 1,330 1,300 1,300
+Water Supply Surcharge ––– ––– 12,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Water/Wastewater Operators Licenses 211 215 215 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Waterfront Development Fees 2,687 2,800 3,510 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Waterfront Development Fines 14 10 10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Well Permits/Well Drillers/Pump Installers Licenses 1,123 1,100 1,100 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Wetlands . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81 91 140
+Worker Community Right to Know – Fines 38 40 40
