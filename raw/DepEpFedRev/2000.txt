@@ -1,0 +1,75 @@
+DepartmentofEnvironmentalProtection:
+AirDeposition------ 700 700 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+AirPollutionMaintenanceProgram 4,732 6,319 6,319 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+AppalachianTrailImprovement(ISTEA)------ 50 50 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+AppalachianTrailViewshedAcquisition(ISTEA)------ 500 500 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Archaeological&History/GISInventory(ISTEA)------ 1,700 1,700 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ArtificialReefProgram 164 300 325 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+BoatAccess(FishandGame)------ 400 400 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+CERCLAGrants------ 250------ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+CapeMayPointStateParkBikeway(ISTEA)------ 200 200 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+CleanVessels------ 1,000 1,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ClimateChangeActionPlan(RecyclingofLandfillGases)------ 300 100 . . . . . . . . . . . . . . . . . . . . . . .
+CoastalZoneManagementImplementation 1,927 4,117 4,417 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ConsolidatedForestManagement 284 935 935 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ConstructionGrantsProgram 64 59,617 59,600 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Delaware&RaritanCanalRoute1Crossing(ISTEA)------ 825 825 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Delaware&RaritanCanalStateParkMulti--PurposeTrail--PhaseII(ISTEA)------ 400 400 . . . . . . . .
+Delaware&RaritanCanalStateParkMulti--PurposeTrail--PhaseIII(ISTEA)------ 500 500 . . . . . . . .
+Delaware&RaritanCanalStateParkOldRosetoMulberrySt.(ISTEA)------ 250 250 . . . . . . . . . . . .
+Delaware&RaritanCanalStatePark/BordentownOutlet(ISTEA)------ 820 820 . . . . . . . . . . . . . . . . .
+EndangeredSpecies 53 90 60 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+EnvironmentalJustice------ 250 250 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+EnvironmentalTechnologyInitiative 222------------ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+EstuaryProgram 132 1,240 1,390 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+FishandWildlifeHealth 44------ 112 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ForestResourceManagement--CooperativeForestFireControl 122 214 214 . . . . . . . . . . . . . . . . . . .
+ForkedRiverAnnexLandAcquisition------ 330 333 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+GoodLuckPointLandAcquisition------ 480 480 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+HazardousWaste--ResourceConservationRecoveryAct 4,674 4,281 4,281 . . . . . . . . . . . . . . . . . . . . . . . .
+HistoricPreservationSurvey&Planning 451 900 1,000
+ Hunters’andAnglers’LicenseFund 3,298 5,790 5,790 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+IslandBeachStateParkBikewayExtension(ISTEA)------ 600 600 . . . . . . . . . . . . . . . . . . . . . . . . . . .
+LandandWaterConservationFund------ 5,000 5,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+LibertyStateParkArchivalFacility(ISTEA)------ 726 726 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+LibertyStateParkFerrySlipRestoration(ISTEA)------ 2,000 2,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+LibertyStateParkTrainSheds--StructuralReport(ISTEA)------ 350 350 . . . . . . . . . . . . . . . . . . . . . . .
+LibertyStatePark--BusTerminal(ISTEA)------ 400 400 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ManahawkinLakeRestorationPhaseII 35------------ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+MarineFisheriesInvestigationandManagement 602 1,110 1,150 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+MauriceRiverII------ 1,000 1,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+MonitoringandPlanning 581------------ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Multi--Media 175 500 500 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+NPDESImplementationSupportProgram 1,087 900 900 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+NationalCoastalWetlandsConservation------ 775 1,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+NationalDamSafetyProgram(FEMA)------------ 50 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+NationalGeologicMappingProgram 30 200 200 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+NationalRecreationalTrails 97 642 642 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Non--PointSourceImplementation(319H) 2,546 2,000 4,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ParticulateMonitoringGrant------ 1,500 1,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PaulinskillValleyTrailImprovements(ISTEA)------ 550 550 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PesticideRecordingProgram------------ 20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PesticideTechnology 675 660 660 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PinelandsGrant--Acquisition------ 6,000 6,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PollutionPreventionIncentive 69 100 100 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PreliminaryAssessments/SiteInspections 1,387 3,175 3,500 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+RadonProgram 611 600 500 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SafeDrinkingWaterAct 2,291 19,757 21,300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SalemRiverMeadows------ 1,000 1,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Sloop/MapleCreekAcquisition------ 350 350 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+StateWetlandsConservationPlan 113 500 500 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+State/EPADataManagementGrant 154 500 500 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+StatewideTrailImplementation(ISTEA)------ 110 110 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+StewardshipLandTypeAssociation------ 20 20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Stout’sCreekLandAcquisition------------ 750 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SuperfundGrants 8,037 25,000 25,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SussexBranchTrailBridges(ISTEA)------ 1,127 1,127 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+SussexBranchTrailConnector(ISTEA)------ 75 75 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+U.S.DepartmentofEnergy/InventoryofGreenhouseGases------ 400 400 . . . . . . . . . . . . . . . . . . . . . .
+UndergroundInjectionControl 43 90 90 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+UndergroundStorageTanks 2,196 1,855 1,855 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+VoluntaryCleanup--SiteSpecific 9 100 450 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+WaterMonitoringandPlanning------ 1,600 1,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+WaterPollutionControlProgram 769 2,400 2,600 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+WatershedIndicators------ 300 300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+VariousFederalProgramsandAccruals 1,639 1,218 1,539

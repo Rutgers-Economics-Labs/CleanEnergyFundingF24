@@ -1,0 +1,79 @@
+ DepartmentofEnvironmentalProtection:
+ AirPollutionMaintenanceProgram 10,673 10,500 10,500 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ ArtificialReefProgram--PSE&G/NJPDESPermitFees 1,026 1,400 1,800 . . . . . . . . . . . . . . . . . . . . . . . . .
+ AsianLonghornedBeetleProject------ 2,300 2,300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ AssistancetoFirefighters--WildfireandArsonPrevention------ 200 200 . . . . . . . . . . . . . . . . . . . . . . .
+ AtlanticCoastalFisheries 113 300 300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ AvianInfluenza 56 150 150 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ BeachMonitoringandNotification 404 700 700 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ BioWatchMonitoring 387 750 750 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ BoatAccess(FishandWildlife) 313 1,000 1,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Brownfields 347 2,000 2,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ ChronicWastingDisease 52 150 150 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ CleanDieselRetrofit 163 400 400 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ CleanVessels 407 1,000 1,000
+  CleanWaterStateRevolvingFund------ 86,000 61,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ CoastalEstuarineLandProgram------ 4,000 4,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ CoastalZoneManagementImplementation 2,276 3,400 3,400 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ CommunityAssistanceProgram 249 250 250 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ ConsolidatedForestManagement 372 1,080 1,080 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ CooperativeTechnicalPartnership------ 5,000 4,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ DefensibleSpace------ 400 400 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ DieselEmissionReductionAct--FederalEconomicStimulus 1,030------------. . . . . . . . . . . . . . . . . . . . .
+ DrinkingWaterStateRevolvingFund 3,124 33,200 23,200 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ ElectronicVesselTripReporting 23 170 170 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ EndangeredSpecies 42 95 125 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ EndangeredandNongameSpeciesProgramStateWildlifeGrants 803 1,000 1,000 . . . . . . . . . . . . . . . . .
+ FirewiseinthePines------ 200 200 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ FishandWildlifeActionPlan 53 75 95 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ FishandWildlifeHealth 558 100 810 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ FishandWildlifeTechnicalGuidance 51 200 200 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ ForestLegacy 4,518 6,040 6,040 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ ForestResourceManagement--CooperativeForestFireControl 984 1,750 1,765 . . . . . . . . . . . . . . . . . .
+ GypsyMothSuppression------ 420 420 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ HazardousWaste--ResourceConservationRecoveryAct 5,751 4,895 4,995 . . . . . . . . . . . . . . . . . . . . . . . .
+ HistoricPreservationSurveyandPlanning 979 950 1,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ HudsonRiverWalkway------ 4,000 4,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Hunters’andAnglers’LicenseFund 6,176 8,925 10,570 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ LandandWaterConservationFund------ 6,000 6,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ LeakingUndergroundStorageTanks--FederalEconomicStimulus 2,489------------. . . . . . . . . . . . . . . .
+ LincolnParkRestoration--FederalEconomicStimulus 8,309------------. . . . . . . . . . . . . . . . . . . . . . . . . .
+ MarineAccess--OysterCreekMarina 587------------. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ MarineFisheriesInvestigationandManagement 1,054 1,400 1,450 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ Multimedia 754 750 750 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ NJLandownerIncentive 508------------. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ NationalCoastalWetlandsConservation------ 4,000 4,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ NationalDamSafetyProgram(FEMA) 133 110 120 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ NationalGeologicMappingProgram 141 250 290 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ NationalRecreationalTrails 891 1,900 1,900 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ NewJersey’sLandscapeProject 275 400 400 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ NonpointSourceImplementation(319H) 5,729 4,010 4,010 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ NortheastWildlifeTeamworkStrategy 119 60 60 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ OffshoreBeachReplenishment------ 100------. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ ParticulateMonitoringGrant 517 1,000 1,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ PesticideTechnology 695 550 550 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ PinelandsGrant--Acquisition------ 1,000 1,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ PreliminaryAssessments/SiteInspections 1,055 1,900 1,900 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ RadonProgram 661 500 500 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ RemedialPlanningSupportAgencyAssistance 616 1,000 1,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ ScenicByways------ 3,500 3,500 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ SevereRepetitiveLoss--LincolnParkBorough------------ 2,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ SevereRepetitiveLoss--PassaicRiverBasin------------ 2,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ SouthernPineBeetle------ 100 300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ StateRecreationalTrails------ 4,975 4,975 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ StateWetlandsConservationPlan 112 550 550 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ StateWildlifeGrantProjects------ 1,000 1,000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ StateandEPADataManagementGrant 103 2,300 2,300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ SuperfundGrants 345 25,450 5,450 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ UndergroundStorageTankProgramStandardComplianceInspections 627 1,250 1,250 . . . . . . . . . . . . .
+ UndergroundStorageTanks 2,180 2,500 2,500 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ UrbanCommunityAirToxicsProgram 111 800 800 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ UrbanHistoryInitiative 1,149------------. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ WaterMonitoringandPlanning 980 1,050 1,050 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ WaterPollutionControlProgram 5,273 4,275 4,275 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ WaterPollutionS106Enhancements------ 300 300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ WaterQualityManagement(604b)--FederalEconomicStimulus 883------------. . . . . . . . . . . . . . . . . .
+ WildlandandUrbanInterfaceII------ 100 100 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ WildlifeHabitatIncentivesProgram(WHIP)------ 150 150 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ WildlifeManagementAreaPlanning 114------------. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ VariousFederalProgramsandAccruals (20,126) 1,025 1,375
