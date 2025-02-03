@@ -1,4 +1,4 @@
-,Product Type ,Approval Date ,Product ID,Amount ,Total Cost of Vehicles,How many vehicles of this model purchasing?,Vehicle Make ,Vehicle Model ,Vehicle Model Year,What is the vehicle class? 
+,Product Type,Approval Date,Product ID,Amount,Total Cost of Vehicles,How many vehicles of this model purchasing?,Vehicle Make,Vehicle Model,Vehicle Model Year,What is the vehicle class? 
 0,ZIP_Phase1,2021-05-19 00:00:00,PROD-00258414,170000.0,298000.0,2.0,Hino,M5 (195),,"Class 5: 16,001 - 19,500 lbs"
 1,ZIP_Phase1,2021-06-15 00:00:00,PROD-00258416,76400.0,132750.0,1.0,Ford,Transit Van,,"Class 3: 10,001 - 14,000 lbs"
 2,ZIP_Phase1,2021-06-15 00:00:00,PROD-002584164,114600.0,151500.0,1.0,Hino,M5 (195),,"Class 5: 16,001 - 19,500 lbs"
@@ -19,7 +19,6 @@
 17,ZIP_Phase1,2021-10-20 00:00:00,PROD-00297128,305250.0,335700.0,3.0,GreenPower,EV Star CarGo,,"Class 4: 14,001 - 16,000 lbs"
 18,ZIP_Phase1,2022-01-04 00:00:00,PROD-00300382,1487500.0,2310000.0,14.0,Hino,M5 (195),,"Class 5: 16,001 - 19,500 lbs"
 19,ZIP_Phase1,2021-11-24 00:00:00,PROD-00300391,101750.0,153599.0,1.0,GreenPower,EV Star CarGo Plus,,"Class 4: 14,001 - 16,000 lbs"
-20,ZIP_Phase1,,,,,,,,,
 21,ZIP_Phase1,2023-02-06 00:00:00,PROD-00301861,150000.0,471900.0,2.0,Phoenix Motorcars,Z400 - Transit,,"Class 4: 14,001 - 16,000 lbs"
 22,ZIP_Phase1,2022-03-22 00:00:00,PROD-00302084,93750.0,119000.0,1.0,GreenPower,EV Star CarGo,,"Class 4: 14,001 - 16,000 lbs"
 23,ZIP_Phase1,2022-02-28 00:00:00,PROD-00301786,203500.0,212300.0,2.0,EVT,Logistics Van / C5000 Cutaway (Class 4),,"Class 4: 14,001 - 16,000 lbs"
