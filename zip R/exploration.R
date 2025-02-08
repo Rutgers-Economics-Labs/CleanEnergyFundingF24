@@ -37,6 +37,7 @@ yearly <- data |>
   mutate(year = year(date)) |>
   group_by(year) |>
   summarise(
+    count = n(),
     total_vehicles = sum(numberOfVehicles),
     total_awarded = sum(awarded),
     total_cost = sum(cost), 
@@ -44,6 +45,12 @@ yearly <- data |>
     avg_award_per_vehicle = mean(vehiclesAwarded),
     avg_award_to_cost_ratio = mean(ratio)
   )
+
+# important to note that there are significantly less grants in 2024 than 2023
+# probably due to the fact that the grants in 2024 weren't published fully yet
+# which causes this imbalance
+
+
 
 
 
