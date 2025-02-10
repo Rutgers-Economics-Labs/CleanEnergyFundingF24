@@ -53,10 +53,6 @@ yearly <- data |>
 
 
 
-
-
-
-
 lm <- glm(numberOfVehicles ~ year + awarded + ratio + class, data = data)
 summary(lm)
 
